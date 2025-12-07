@@ -1,16 +1,86 @@
-## Hi there 👋
+# Баб — Python Developer
 
-<!--
-**babkenyeganian/babkenyeganian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🇷🇺 Русский](#русская-версия) | [🇬🇧 English](#english-version)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🇬🇧 English Version
+
+# Hello, I'm Bab — Python Developer
+
+I build tools and automation in the following areas:
+- Web scraping & data collection
+- Browser automation (Selenium / Playwright)
+- Bots for Telegram / websites
+- REST & WebSocket API integrations
+- File processing utilities (CSV, Excel, PDF)
+- Data processing with Pandas (no ML)
+- Windows/Linux automation scripts
+- Small backend services (FastAPI / Flask)
+- Trading tools and helpers (non-ML)
+
+I focus on clean code, structure, and reliable solutions.  
+Constantly improving my Python ecosystem knowledge.
+
+---
+
+### 🔧 Tech Stack
+Python, Requests, BeautifulSoup4, Selenium, Playwright,  
+Pandas, OpenPyXL, Asyncio, Websockets,  
+FastAPI, Flask,  
+Aiogram, Telebot,  
+SQLite, JSON, Logging.
+
+---
+
+### 📂 Projects (more coming soon)
+- Web Scraping Toolset  
+- Selenium Automation Framework  
+- API Integration Examples  
+- Telegram Utility Bot  
+- CSV/Excel Toolbox  
+- FastAPI Microservice Template  
+
+---
+
+### 📫 Contacts
+Telegram: @твой_ник  
+Open for freelance, collaborations, and Python projects.
+
+---
+
+## 🇷🇺 Русская версия
+
+# Привет, я Баб — Python Developer
+
+Работаю над проектами в областях:
+- Web-scraping и автоматизация сбора данных  
+- Автоматизация браузера (Selenium / Playwright)  
+- Боты для Telegram и сайтов  
+- Интеграции с REST и WebSocket API  
+- Обработка файлов (CSV, Excel, PDF)  
+- Data-processing на Pandas (без ML)  
+- Автоматизация задач на Windows/Linux  
+- Мини-сервисы на FastAPI/Flask  
+- Инструменты для трейдинга (без ML)
+
+Пишу чистый код, стараюсь держать проекты структурными и понятными.
+
+---
+
+### 🔧 Стек технологий
+Python, Requests, BeautifulSoup4, Selenium, Playwright,  
+Pandas, OpenPyXL, Asyncio, Websockets,  
+FastAPI, Flask,  
+Aiogram, Telebot,  
+SQLite, JSON, Logging.
+
+---
+
+### 📂 Проекты
+- Набор инструментов для парсинга  
+- Автоматизация браузера на Selenium  
+- Примеры работы с API  
+- Telegram Utility Bot  
+- Утилиты для CSV/Excel  
+- Шаблон микросервиса на FastAPI
