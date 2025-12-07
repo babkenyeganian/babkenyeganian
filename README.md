@@ -1,4 +1,4 @@
-# Баб — Python Developer
+# Babken Yeganian — Python Developer
 
 [🇷🇺 Русский](#русская-версия) | [🇬🇧 English](#english-version)
 
@@ -6,7 +6,7 @@
 
 ## 🇬🇧 English Version
 
-# Hello, I'm Bab — Python Developer
+Hello, I'm Babken — Python Developer
 
 I build tools and automation in the following areas:
 - Web scraping & data collection
@@ -14,10 +14,10 @@ I build tools and automation in the following areas:
 - Bots for Telegram / websites
 - REST & WebSocket API integrations
 - File processing utilities (CSV, Excel, PDF)
-- Data processing with Pandas (no ML)
+- Data processing with Pandas 
 - Windows/Linux automation scripts
 - Small backend services (FastAPI / Flask)
-- Trading tools and helpers (non-ML)
+- Trading tools and helpers 
 
 I focus on clean code, structure, and reliable solutions.  
 Constantly improving my Python ecosystem knowledge.
@@ -32,8 +32,7 @@ Aiogram, Telebot,
 SQLite, JSON, Logging.
 
 ---
-
-### 📂 Projects (more coming soon)
+ Projects (more coming soon)
 - Web Scraping Toolset  
 - Selenium Automation Framework  
 - API Integration Examples  
@@ -44,14 +43,14 @@ SQLite, JSON, Logging.
 ---
 
 ### 📫 Contacts
-Telegram: @твой_ник  
+Telegram: @babken_0199  
 Open for freelance, collaborations, and Python projects.
 
 ---
 
 ## 🇷🇺 Русская версия
 
-# Привет, я Баб — Python Developer
+# Привет, я Бабкен — Python Developer
 
 Работаю над проектами в областях:
 - Web-scraping и автоматизация сбора данных  
@@ -59,10 +58,10 @@ Open for freelance, collaborations, and Python projects.
 - Боты для Telegram и сайтов  
 - Интеграции с REST и WebSocket API  
 - Обработка файлов (CSV, Excel, PDF)  
-- Data-processing на Pandas (без ML)  
+- Data-processing на Pandas   
 - Автоматизация задач на Windows/Linux  
 - Мини-сервисы на FastAPI/Flask  
-- Инструменты для трейдинга (без ML)
+- Инструменты для трейдинга 
 
 Пишу чистый код, стараюсь держать проекты структурными и понятными.
 
@@ -84,3 +83,8 @@ SQLite, JSON, Logging.
 - Telegram Utility Bot  
 - Утилиты для CSV/Excel  
 - Шаблон микросервиса на FastAPI
+- ---
+
+### 📫 Контакты
+Telegram: @babken_0199  
+Открыт для проектов, сотрудничества и задач по Python.
